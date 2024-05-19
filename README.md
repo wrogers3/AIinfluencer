@@ -3,6 +3,9 @@
 This repository is a project to utilise the latest stable diffusion capabilities of the open source developer realm.
 (https://github.com/lllyasviel/Fooocus). 
 
+WORKING V1
+https://youtu.be/i44uqWMCM_8
+
 # Goal
 For every AI influencer face image, use that image to make 10 more pictures of her with a randomised prompt. 
 The pictures are stored in a folder (Fooocus/output)
